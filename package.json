@@ -1,0 +1,8 @@
+{
+  "scripts": {
+		"bb": "tsc -b ."
+	},
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
