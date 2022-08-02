@@ -1,6 +1,7 @@
 {
   "scripts": {
-		"bb": "tsc -b ."
+		"build": "tsc -b -v client server",
+    "clean": "tsc -b --clean client server"
 	},
   "dependencies": {
     "typescript": "^4.7.4"
